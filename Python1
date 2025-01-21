@@ -1,0 +1,15 @@
+# # name = input("your name")
+# # print("Hello. {name}!")
+# name = input("What your name?")
+# print("Hello ,", name,"!")
+#
+# movi = input("What is your faivorit movi :")
+# print("OO",movi,"!")
+#
+# age = input("How old are you :")
+# print("OO you old:",age,"!")
+#
+# print("hmm... your name :",name,"." ,"Your faivorit movi :", movi ,".","Your old :", age,"Great!!")
+# name = "NO"
+# Name = "XX"
+# print(name)
