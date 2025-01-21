@@ -1,0 +1,31 @@
+print("Hi, welcome to shopping")
+
+cash = int(input("what are the prices $ : "))
+
+
+product_1 = int(input("milk" ))
+print(product_1,"$")
+product_2 = int(input("cake",))
+print(product_2,"$")
+product_3 = int(input("peper"))
+print(product_3,"$")
+product_4 = int(input("cofee"))
+print(product_4,"$")
+product_5 = int(input("tie"))
+print(product_5,"$")
+product_6 = int(input("juse"))
+print(product_6,"$")
+product_7 = int(input("beter"))
+print(product_7,"$")
+
+
+cost = product_1 + product_2 + product_3 + product_4 + product_5 + product_6 + product_7
+
+
+remaining = cash - cost
+
+
+if remaining >= 0:
+    print("Thank you! Remaining cash:", remaining,"$")
+else:
+    print("You don't have enough money. You are short by:", remaining,"$")
