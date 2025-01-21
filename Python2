@@ -1,0 +1,9 @@
+# a = 2008
+# b = 1973
+# c = a+b
+# d = a*b
+# x = a/b
+# print(c,d,x)
+#
+# a = input()
+# print(a)
